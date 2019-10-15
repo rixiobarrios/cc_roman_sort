@@ -26,7 +26,7 @@ solution('XXI'); // should return 21
 ```
 <br>
 Help: <br>
-``` javascript
+```javascript
 Symbol    Value
 I          1
 V          5
