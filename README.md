@@ -9,12 +9,11 @@ Source: Code Wars <br>
 PreReq: JavaScript Fundamentals
 
 
----
 ![.](https://media.tenor.com/images/f6452676b8ebe26bbac383ba74ab22af/tenor.gif)
 
 --- 
 
-### Roman Numerals Decoder
+## Roman Numerals Decoder
 
 Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral. <br>
 
@@ -36,4 +35,29 @@ L          50
 C          100
 D          500
 M          1,000
+```
+
+## Sort the odd
+
+You have an array of numbers.
+Your task is to sort ascending odd numbers but even numbers must be on their places. <br>
+
+Zero isn't an odd number and you don't need to move it. If you have an empty array, you need to return it. <br>
+
+Example: <br>
+
+```
+sortArray([5, 3, 2, 8, 1, 4]) == [1, 3, 2, 8, 5, 4]
+
+```
+
+## WeIrD StRiNg CaSe 
+
+Write a function toWeirdCase (weirdcase in Ruby) that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased. <br>
+
+The passed in string will only consist of alphabetical characters and spaces(' '). Spaces will only be present if there are multiple words. Words will be separated by a single space(' '). <br>
+
+```
+toWeirdCase( "String" ) // returns "StRiNg"
+toWeirdCase( "Weird string case" )// returns "WeIrD StRiNg CaSe"
 ```
