@@ -7,4 +7,4 @@ Duration: "~:30" <br>
 Creator: Kenneth Cruz <br>
 PreReq: JavaScript Fundamentals 
 ---
-[.](https://media.tenor.com/images/f6452676b8ebe26bbac383ba74ab22af/tenor.gif)
+![.](https://media.tenor.com/images/f6452676b8ebe26bbac383ba74ab22af/tenor.gif)
