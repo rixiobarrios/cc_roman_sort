@@ -25,9 +25,9 @@ Example: <br>
 solution('XXI'); // should return 21
 ```
 <br>
-Help: <br>\
+Help: <br>
 
-```javascript
+```
 Symbol    Value
 I          1
 V          5
