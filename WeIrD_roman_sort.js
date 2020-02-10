@@ -1,3 +1,19 @@
+function toWeirdCase(string){
+    //Awesome code here pls
+}
+
+// toWeirdCase('This') // expect: 'ThIs'
+// toWeirdCase('is') // expect: 'Is'
+
+function sortArray(array) {
+    // Return a sorted array.
+}
+
+// sortArray([5, 3, 2, 8, 1, 4]) // expect: [1, 3, 2, 8, 5, 4]
+// sortArray([5, 3, 1, 8, 0]) // expect: [1, 3, 5, 8, 0]
+// sortArray([]) // expect: []
+
+
 function solution(roman){
     // complete the solution by transforming the 
     // string roman numeral into an integer  
@@ -10,17 +26,3 @@ function solution(roman){
 // solution("MDCLXVI") // expected output: 1666
 
 
-function sortArray(array) {
-    // Return a sorted array.
-}
-
-// sortArray([5, 3, 2, 8, 1, 4]) // expect: [1, 3, 2, 8, 5, 4]
-// sortArray([5, 3, 1, 8, 0]) // expect: [1, 3, 5, 8, 0]
-// sortArray([]) // expect: []
-
-function toWeirdCase(string){
-    //Awesome code here plis
-}
-
-// toWeirdCase('This') // expect: 'ThIs'
-// toWeirdCase('is') // expect: 'Is'
