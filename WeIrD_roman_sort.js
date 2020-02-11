@@ -3,9 +3,7 @@ function toWeirdCase(string){
 }
 
 // toWeirdCase('This') // expect: 'ThIs'
-
 // toWeirdCase('is') // expect: 'Is'
-
 // toWeirdCase('Weird string case') // expect: 'WeIrD StRiNg CaSe'
 
 function sortArray(array) {
