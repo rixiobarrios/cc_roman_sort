@@ -3,7 +3,10 @@ function toWeirdCase(string){
 }
 
 // toWeirdCase('This') // expect: 'ThIs'
+
 // toWeirdCase('is') // expect: 'Is'
+
+// toWeirdCase('Weird string case') // expect: 'WeIrD StRiNg CaSe'
 
 function sortArray(array) {
     // Return a sorted array.
@@ -15,8 +18,7 @@ function sortArray(array) {
 
 
 function solution(roman){
-    // complete the solution by transforming the 
-    // string roman numeral into an integer  
+    // complete the solution by transforming the string roman numeral into an integer  
 }
 
 // solution("XXI") // expected output: 21
