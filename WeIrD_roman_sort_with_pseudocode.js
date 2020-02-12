@@ -17,7 +17,6 @@ function toWeirdCase(string) {
 
 	//join and then push the new word into the results array
 	
-
 	//join results with a space and return the string
 }
 
@@ -31,10 +30,11 @@ console.log(toWeirdCase('Weird string case')); //expect 'WeIrD StRiNg CaSe'
 function sortArray(array) {
 	//If array empty, return it
 
-  //initialize empty odds array
+  	//initialize empty odds array
  
 	//loop over the given array
-		//if the number is odd, push it into the odds array
+	
+	//if the number is odd, push it into the odds array
 
 	//sort the odds array
 
@@ -55,14 +55,15 @@ function sortArray(array) {
 function solution(roman) {
 	// store numerical values of roman digits I, V, X, L, C, D, M in an object
 
-  //split the given roman numeral into an array of individual roman digits
+  	//split the given roman numeral into an array of individual roman digits
 
-  //initialize a sum variable to store the value of the roman digits
+  	//initialize a sum variable to store the value of the roman digits
 
-  //iterate over the roman digits array
-		// if the value of the digit is less than the one before it (such as iv = 4), add the difference of the two digits to the sum and increment i to skip the next digit
+  	//iterate over the roman digits array
 	
-    //if it's a singular roman digit, add its value to sum
+	// if the value of the digit is less than the one before it (such as iv = 4), add the difference of the two digits to the sum and increment i to skip the next digit
+	
+   	//if it's a singular roman digit, add its value to sum
 
 	// return sum;
 }
