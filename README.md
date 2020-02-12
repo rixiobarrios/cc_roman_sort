@@ -3,7 +3,7 @@
 ---
 Title: Roman Sort <br>
 Type: Coding Challenge <br>
-Duration: "~:30" <br>
+Duration: "~:45" <br>
 Creator: Kenneth Cruz <br>
 Source: Code Wars <br>
 PreReq: JavaScript Fundamentals
